@@ -1,0 +1,55 @@
+.paper{
+    color: black;
+    margin:auto;
+    border-radius:5px;
+    box-shadow: 1px 1px 1px;
+    margin-bottom:8px;
+    // background-color: aquamarine;
+    width:80%;
+    height:80%;
+}
+.cartitem {
+//   display: flex;
+  height: 200px;
+  width: 950px;
+//   margin: 25px 200px;
+  background-color:white;
+  border-radius:8px;
+  padding:15px;
+//   outline: 2px solid black;
+  margin:auto;
+  margin-top:20px;
+  margin-bottom:20px;
+ .counter{ 
+      background-color:#ddd6f3;
+      border-radius:5px;
+      width:78%;
+
+
+
+    p {
+    margin-top: 2px;
+    margin-bottom: -3rem;
+    padding:2px;
+    }
+    button{
+        width:18px;
+        padding:4px;
+        border:none;
+        background-color:transparent;
+    }
+    button:active{
+         width:18px;
+        padding:4px;
+        border-radius:5px;
+        background-color:white;
+    }
+ }
+ 
+//   image{
+//       padding:0;
+//   }
+}
+// .counter{
+//     // border:
+// }
