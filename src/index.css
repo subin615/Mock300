@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+ background: black;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.navbar-nav li a{
+  font-size: 20px;
+}
+.navbar-brand{
+  letter-spacing: 3px;
+}
+.card{
+  transition: all 0.3s ease-in-out;
+}
+.card:hover{
+  transform: scale(1.1);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
 }
